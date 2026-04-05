@@ -1,0 +1,27 @@
+# Core
+pygame
+SpeechRecognition
+rapidfuzz
+python-dotenv
+
+# Microphone backend for SpeechRecognition
+pyaudio
+
+# Spotify
+spotipy
+
+# Shazam
+shazamio
+sounddevice
+scipy
+
+# OpenAI (ChatGPT)
+openai
+
+# Text-to-speech
+pyttsx3
+
+# Google Calendar
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
